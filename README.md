@@ -1,0 +1,1 @@
+This is my attempt to learn more about git-lfs or git's open source Large File Storage verisioning system, it is my hope that maybe I can use it to version larger things, I am following the tutorial from [HERE](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
